@@ -3,6 +3,9 @@
 # Introduction
 Rebel Foods, often touted as the world's largest internet restaurant company, has revolutionized the food delivery industry by leveraging cloud kitchens and a multi-brand strategy. This case study will explore Rebel Foods using various business frameworks to understand its market position, challenges, and strategic direction.
 
+![Screenshot 2024-08-06 151858](https://github.com/user-attachments/assets/2cc3e095-2140-49d8-a961-7bc0616fc466)
+
+
 # SWOT Analysis
 
 # Strengths:
@@ -16,6 +19,8 @@ Strong use of data analytics for menu optimization and customer targeting.
 # Scalability:
 Ability to quickly expand into new markets without the constraints of physical restaurant spaces.
 
+
+![Screenshot 2024-08-06 152234](https://github.com/user-attachments/assets/012de3c8-b8c1-4296-9f92-6665c9621ee8)
 
 # Weaknesses:
 
@@ -36,6 +41,8 @@ Opportunities to partner with other food brands or grocery delivery services.
 # Technological Advancements: 
 Further integration of AI and machine learning for better demand forecasting and inventory management.
 
+![Screenshot 2024-08-06 152505](https://github.com/user-attachments/assets/08a01d91-4288-4c9c-8011-5e3870a8a33b)
+
 
 # Threats:
 
@@ -46,6 +53,8 @@ Potential changes in food safety regulations and labor laws.
 # Economic Downturns:
 Reduced consumer spending during economic downturns could impact sales.
 
+
+![Screenshot 2024-08-06 152518](https://github.com/user-attachments/assets/b57e3084-88fd-4802-9a4f-7d7940fd7e13)
 
 
 # Porter's Five Forces
@@ -96,3 +105,12 @@ Reduced consumer spending during economic downturns could impact sales.
 # Environmental:
 1) Sustainability practices in sourcing and packaging.
 2) Managing food waste and reducing the carbon footprint of delivery operations.
+
+
+![Screenshot 2024-08-06 152448](https://github.com/user-attachments/assets/44b390d4-8a24-4de7-a7a3-b23761249ec6)
+
+
+# Conclusion:
+Rebel Foods has leveraged innovative strategies to become a leader in the online restaurant industry.
+While it faces challenges, there are significant opportunities for growth and advancement.
+Continued focus on technology, partnerships, and market expansion will be key to its future success.
